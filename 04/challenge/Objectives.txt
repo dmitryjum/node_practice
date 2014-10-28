@@ -1,0 +1,6 @@
+1. Track the number of flights created.
+  Every time a new Flight object is created the counter should go up by 1
+2. Track all destinations served.
+3. Export multiple functions from the module.
+  Functions: create flights; get the values we're tracking
+4. Make any necessary changes in app.js
